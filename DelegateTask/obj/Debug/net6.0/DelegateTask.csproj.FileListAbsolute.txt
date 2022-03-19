@@ -1,0 +1,15 @@
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\bin\Debug\net6.0\DelegateTask.exe
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\bin\Debug\net6.0\DelegateTask.deps.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\bin\Debug\net6.0\DelegateTask.runtimeconfig.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\bin\Debug\net6.0\DelegateTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\bin\Debug\net6.0\DelegateTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.csproj.AssemblyReference.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.AssemblyInfoInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.AssemblyInfo.cs
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.csproj.CoreCompileInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\refint\DelegateTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\DelegateTask.genruntimeconfig.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\DelegateTask\obj\Debug\net6.0\ref\DelegateTask.dll
