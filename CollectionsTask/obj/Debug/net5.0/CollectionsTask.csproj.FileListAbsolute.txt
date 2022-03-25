@@ -1,0 +1,16 @@
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.csproj.AssemblyReference.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.AssemblyInfoInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.AssemblyInfo.cs
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.csproj.CoreCompileInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\bin\Debug\net5.0\CollectionsTask.exe
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\bin\Debug\net5.0\CollectionsTask.deps.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\bin\Debug\net5.0\CollectionsTask.runtimeconfig.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\bin\Debug\net5.0\CollectionsTask.runtimeconfig.dev.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\bin\Debug\net5.0\CollectionsTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\bin\Debug\net5.0\CollectionsTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\refint\CollectionsTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\CollectionsTask.genruntimeconfig.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\CollectionsTask\obj\Debug\net5.0\ref\CollectionsTask.dll

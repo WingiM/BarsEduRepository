@@ -1,0 +1,16 @@
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.csproj.AssemblyReference.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.AssemblyInfoInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.AssemblyInfo.cs
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.csproj.CoreCompileInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\bin\Debug\net5.0\GenericsTask.exe
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\bin\Debug\net5.0\GenericsTask.deps.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\bin\Debug\net5.0\GenericsTask.runtimeconfig.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\bin\Debug\net5.0\GenericsTask.runtimeconfig.dev.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\bin\Debug\net5.0\GenericsTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\bin\Debug\net5.0\GenericsTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\refint\GenericsTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\GenericsTask.genruntimeconfig.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\GenericsTask\obj\Debug\net5.0\ref\GenericsTask.dll

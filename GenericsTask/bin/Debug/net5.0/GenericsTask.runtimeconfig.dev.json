@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wingi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wingi\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nFO6J8onhbZ1tkI7JGebgsy15ARLxy7aSv4m3pc56DD82QSrc7QHU/7nV3dB6Imf+33hCwCxAHrQLqgK3DV/BA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wingi\\RiderProjects\\BarsGroupTasks\\CollectionsTask\\CollectionsTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wingi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
