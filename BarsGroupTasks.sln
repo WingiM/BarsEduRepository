@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateTask", "DelegateTas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsTask", "CollectionsTask\CollectionsTask.csproj", "{37891B11-F5BE-4336-8E05-1A054E8E964F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadTask", "ThreadTask\ThreadTask.csproj", "{840AE172-705C-4ED6-AA31-4F249B8E34F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{37891B11-F5BE-4336-8E05-1A054E8E964F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37891B11-F5BE-4336-8E05-1A054E8E964F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37891B11-F5BE-4336-8E05-1A054E8E964F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840AE172-705C-4ED6-AA31-4F249B8E34F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840AE172-705C-4ED6-AA31-4F249B8E34F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840AE172-705C-4ED6-AA31-4F249B8E34F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840AE172-705C-4ED6-AA31-4F249B8E34F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

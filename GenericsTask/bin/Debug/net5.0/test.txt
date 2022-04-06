@@ -1,0 +1,18 @@
+[Info]: [Int32] : LogInfo int test message!
+[Warning] : [Int32] : LogWarning int test message!
+[Error] : [Int32] : LogWarning int test message!. Exception int test text
+[Info]: [String] : LogInfo string test message!
+[Warning] : [String] : LogWarning string test message!
+[Error] : [String] : LogWarning string test message!. Exception string test text
+[Info]: [People] : LogInfo People test message!
+[Warning] : [People] : LogWarning People test message!
+[Error] : [People] : LogWarning People test message!. Exception People test text
+[Info]: [Int32] : LogInfo int test message!
+[Warning] : [Int32] : LogWarning int test message!
+[Error] : [Int32] : LogWarning int test message!. Exception int test text
+[Info]: [String] : LogInfo string test message!
+[Warning] : [String] : LogWarning string test message!
+[Error] : [String] : LogWarning string test message!. Exception string test text
+[Info]: [People] : LogInfo People test message!
+[Warning] : [People] : LogWarning People test message!
+[Error] : [People] : LogWarning People test message!. Exception People test text

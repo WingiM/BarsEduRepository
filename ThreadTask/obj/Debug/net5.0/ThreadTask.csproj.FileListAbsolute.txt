@@ -1,0 +1,16 @@
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\bin\Debug\net5.0\ThreadTask.exe
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\bin\Debug\net5.0\ThreadTask.deps.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\bin\Debug\net5.0\ThreadTask.runtimeconfig.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\bin\Debug\net5.0\ThreadTask.runtimeconfig.dev.json
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\bin\Debug\net5.0\ThreadTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\bin\Debug\net5.0\ThreadTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.csproj.AssemblyReference.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.AssemblyInfoInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.AssemblyInfo.cs
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.csproj.CoreCompileInputs.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\refint\ThreadTask.dll
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.pdb
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ThreadTask.genruntimeconfig.cache
+C:\Users\wingi\RiderProjects\BarsGroupTasks\ThreadTask\obj\Debug\net5.0\ref\ThreadTask.dll
